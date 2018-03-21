@@ -11,8 +11,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: LowLatencyMrcSample
+  companyName: HARMAN
+  productName: HoloLens_SHIP_GUIDE
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -265,10 +265,10 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 0}
+      m_Icon: {fileID: 2800000, guid: fea71be8776e8724c9d795c34d1b137f, type: 3}
       m_Width: 128
       m_Height: 128
-      m_Kind: 46339
+      m_Kind: 0
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings:
@@ -640,8 +640,10 @@ PlayerSettings:
   metroCertificateIssuer: DefaultCompany
   metroCertificateNotAfter: 805f263853d4d401
   metroApplicationDescription: sample of using low latency MRC mode
-  wsaImages: {}
-  metroTileShortName: LowLatencyMrc
+  wsaImages:
+    983140: Assets/Icon/SHIP_310x310.jpg
+    2228324: Assets/Icon/SHIP_310x310.jpg
+  metroTileShortName: HoloLens_SHIP_GUIDE
   metroCommandLineArgsFile: 
   metroTileShowName: 0
   metroMediumTileShowName: 0

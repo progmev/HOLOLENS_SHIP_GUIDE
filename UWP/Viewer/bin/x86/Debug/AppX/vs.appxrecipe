@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T08:25:34.724</Modified>
+      <Modified>2018-03-21T09:32:19.451</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Viewer.exe">
       <PackagePath>entrypoint\Viewer.exe</PackagePath>
-      <Modified>2018-03-21T08:25:32.711</Modified>
+      <Modified>2018-03-21T09:32:18.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\EMartynov\.nuget\packages\microsoft.csharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -499,7 +499,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Viewer.xr.xml">
       <PackagePath>Viewer.xr.xml</PackagePath>
-      <Modified>2018-03-21T08:25:32.565</Modified>
+      <Modified>2018-03-06T13:50:35.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -508,11 +508,11 @@
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T08:25:33.681</Modified>
+      <Modified>2018-03-21T09:04:48.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Core\Viewer.exe">
       <PackagePath>Viewer.exe</PackagePath>
-      <Modified>2018-03-21T08:25:34.717</Modified>
+      <Modified>2018-03-21T09:32:19.447</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

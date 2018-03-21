@@ -1,0 +1,1 @@
+D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Viewer.csproj;x86
