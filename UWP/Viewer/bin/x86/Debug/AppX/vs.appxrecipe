@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>412be276-a0bb-49f5-ad4c-94f03fb82b9e</PackageIdentityName>
     <PackageIdentityPublisher>CN=carmines</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>6FC30EE1C7731ECC8C030ED39B22F23B1EE4FF78140DD3AE2A905FD1858EB23F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>412be276-a0bb-49f5-ad4c-94f03fb82b9e_1.0.0.0_x86__x6sh8wys3ddy6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>412be276-a0bb-49f5-ad4c-94f03fb82b9e_x6sh8wys3ddy6!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T09:32:19.451</Modified>
+      <Modified>2018-03-21T10:51:10.720</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Viewer.exe">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Viewer.exe">
       <PackagePath>entrypoint\Viewer.exe</PackagePath>
-      <Modified>2018-03-21T09:32:18.940</Modified>
+      <Modified>2018-03-21T10:51:09.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\EMartynov\.nuget\packages\microsoft.csharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -451,53 +451,53 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T20:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\MixedRemoteViewCompositor.dll">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\MixedRemoteViewCompositor.dll">
       <PackagePath>MixedRemoteViewCompositor.dll</PackagePath>
       <Modified>2018-03-06T13:26:54.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\MixedRemoteViewCompositor.winmd">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\MixedRemoteViewCompositor.winmd">
       <PackagePath>MixedRemoteViewCompositor.winmd</PackagePath>
       <Modified>2018-03-06T13:26:35.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-03-06T08:10:47.303</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-03-06T08:10:47.294</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-06T08:10:47.298</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Viewer.xr.xml">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Viewer.xr.xml">
       <PackagePath>Viewer.xr.xml</PackagePath>
       <Modified>2018-03-06T13:50:35.059</Modified>
     </AppxPackagedFile>
@@ -505,14 +505,14 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-03-06T09:38:28.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T09:04:48.695</Modified>
+      <Modified>2018-03-21T10:51:10.387</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\bin\x86\Debug\Core\Viewer.exe">
+    <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Core\Viewer.exe">
       <PackagePath>Viewer.exe</PackagePath>
-      <Modified>2018-03-21T09:32:19.447</Modified>
+      <Modified>2018-03-21T10:51:10.712</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

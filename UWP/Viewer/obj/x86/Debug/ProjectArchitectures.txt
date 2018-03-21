@@ -1,1 +1,1 @@
-D:\HOLOLENS_SHIP_GUIDE\UWP\Viewer\Viewer.csproj;x86
+D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\Viewer.csproj;x86

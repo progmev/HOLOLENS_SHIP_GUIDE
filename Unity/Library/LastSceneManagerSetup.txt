@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScene/LowLatencyMrc.unity
+- path: Assets/TestScene/HoloLens_SHIP_GUIDE.unity
   isLoaded: 1
   isActive: 1
