@@ -7,6 +7,7 @@ using UnityEngine;
 public class CursorManager : MonoBehaviour
 {
     public GameObject CursorPrefab;
+
     public float DefaultDistance = 5.0f;
     public Color HitColor = Color.yellow;
     public Color BaseColor = Color.white;
