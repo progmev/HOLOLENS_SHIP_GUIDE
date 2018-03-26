@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TestScene/LowLatencyMrc.unity
+    path: Assets/TestScene/HoloLens_SHIP_GUIDE.unity
     guid: ba2db0edcecae7b48a550cd04e2527ec
