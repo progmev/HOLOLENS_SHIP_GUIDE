@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-26T12:24:31.923</Modified>
+      <Modified>2018-03-26T14:00:53.202</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Viewer.exe">
       <PackagePath>entrypoint\Viewer.exe</PackagePath>
-      <Modified>2018-03-26T12:24:30.477</Modified>
+      <Modified>2018-03-26T14:00:52.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\EMartynov\.nuget\packages\microsoft.csharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -512,7 +512,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\HOLOLENS_SHIP_GUIDE_2103\UWP\Viewer\bin\x86\Debug\Core\Viewer.exe">
       <PackagePath>Viewer.exe</PackagePath>
-      <Modified>2018-03-26T12:24:31.918</Modified>
+      <Modified>2018-03-26T14:00:53.197</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
