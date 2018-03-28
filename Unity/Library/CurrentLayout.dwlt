@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 52
+  controlID: 122
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,9 +369,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e048feffb849feff504efeff6257feff2e58feff0e5cfeff020dffffd00dffffb011ffffc63bffff943cffff7440ffff92adffff6eaeffff58b2ffffe4f9ffffe6f9ffff98fbffff000000003a4b0000e44e000012500000165b0000c05e0000cc5f0000ee5f0000d86a0000826e0000b06f0000
+    m_SelectedIDs: 34520000
+    m_LastClickedID: 21044
+    m_ExpandedIDs: 4411ffff1212fffff415ffffce39ffff9c3affff883effffe4f9ffff98fbffff000000002a3c0000b43d0000383e00003c460000a04800004a490000265000008a52000034530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -589,24 +589,24 @@ MonoBehaviour:
   m_LastProjectPath: D:\HOLOLENS_SHIP_GUIDE_2103\Unity
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 255}
-    m_SelectedIDs: 3e390000
-    m_LastClickedID: 14654
-    m_ExpandedIDs: 00000000d22e0000502f0000562f0000be2f0000d62f0000d82f00006a31000030320000f0350000d0360000d4360000083700002e3700003837000084370000d4370000203800002e38000036390000c6390000243a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 258}
+    m_SelectedIDs: 36390000
+    m_LastClickedID: 14646
+    m_ExpandedIDs: 00000000cc2e00004a2f0000502f0000b82f0000d02f0000d22f0000643100002a320000ea350000c8360000cc3600000037000026370000303700007c370000cc37000018380000263800002e390000be3900001c3a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Tree_Textures
-      m_OriginalName: Tree_Textures
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13836
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -620,7 +620,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d22e0000f42e0000502f0000562f0000be2f0000d82f000030320000f0350000d436000008370000d4370000243a0000
+    m_ExpandedIDs: 00000000cc2e00004a2f0000502f0000b82f0000d02f0000d22f0000643100002a320000ea350000c8360000cc3600000037000026370000303700007c370000cc37000018380000263800002e390000be3900001c3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
