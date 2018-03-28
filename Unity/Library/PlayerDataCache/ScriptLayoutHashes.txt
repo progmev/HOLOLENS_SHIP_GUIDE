@@ -27,6 +27,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 df374c01140c2d578bf70cbd60073d1d UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 6b65f31824988366512541d7c532ee8b Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMapping.ObjectSurfaceObserver
 6be96e34ec56d8306ef9c5afb1661e60 Assembly-CSharp.dll:HoloToolkit.Sharing.Utilities.ManualIpConfiguration
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Navigation
 212077b64505c58a6984fe5881c56209 Assembly-CSharp.dll:HoloToolkit.Examples.Prototyping.CycleScale
 36d4489abba0e98ace566556e1deeaba Assembly-CSharp.dll:HoloToolkit.Unity.Buttons.ButtonSoundProfile
 70121049c716c4de503e63824a1eab39 Assembly-CSharp.dll:HoloToolkit.Unity.UX.LineObjectFollower
